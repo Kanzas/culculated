@@ -1,0 +1,1758 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cost Calculator Builder PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2023-12-28 11:30+0000\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: templates/admin/settings/stripe.php:27
+msgid " and turn off the setting"
+msgstr ""
+
+#: templates/admin/general-settings/invoice.php:47
+msgid " Company Info "
+msgstr ""
+
+#: templates/admin/general-settings/invoice.php:37
+msgid " DD MM YYYY "
+msgstr ""
+
+#: templates/admin/general-settings/invoice.php:36
+msgid " MM DD YYYY "
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:35
+msgid " selected"
+msgstr ""
+
+#: templates/admin/general-settings/invoice.php:38
+msgid " YY MM DD "
+msgstr ""
+
+#: templates/admin/fields/repeater-field.php:23
+msgid "\"Add\" button label"
+msgstr ""
+
+#: templates/admin/fields/repeater-field.php:29
+msgid "\"Remove\" button label"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:43
+msgid "%Current Woo Product%"
+msgstr ""
+
+#: templates/admin/settings/paypal.php:77
+msgid "- Select type of .... -"
+msgstr ""
+
+#: templates/admin/fields/time-picker-field.php:74
+msgid "24-hour time"
+msgstr ""
+
+#: templates/admin/settings/paypal.php:73
+#: templates/admin/general-settings/paypal.php:60
+msgid "Account Type"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:106
+msgid "Action"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:52
+msgid "Action after Submits"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:148
+msgid "Add Captcha key"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:164
+msgid "Add custom button"
+msgstr ""
+
+#: templates/admin/condition.php:10
+msgid "Add elements"
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:95
+#: templates/admin/fields/drop-down-with-image-field.php:91
+#: templates/admin/fields/checkbox-with-image-field.php:103
+msgid "Add new"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:152
+msgid "Add new link"
+msgstr ""
+
+#: templates/admin/fields/file-upload-field.php:111
+msgid "Add price for file uploads"
+msgstr ""
+
+#: templates/frontend/partials/calc-form-payments.php:69
+#: templates/frontend/partials/woo-checkout.php:4
+#: templates/frontend/partials/calc-payments.php:131
+msgid "Add To Cart"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:209
+#: templates/admin/fields/date-picker-field.php:224
+#: templates/admin/fields/radio-with-image-field.php:259
+#: templates/admin/fields/drop-down-with-image-field.php:194
+#: templates/admin/fields/time-picker-field.php:138
+#: templates/admin/fields/file-upload-field.php:185
+#: templates/admin/fields/checkbox-with-image-field.php:269
+msgid "Additional Classes"
+msgstr ""
+
+#: templates/admin/fields/time-picker-field.php:61
+msgid "Advanced (with range)"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:65
+msgid "After Add To Cart Form"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:67
+msgid "After Product Meta"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:69
+msgid "After Single Product (At the Bottom of Product)"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:68
+msgid "After Single Product Summary (Before Tabs)"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:44
+msgid "All Categories"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:157
+msgid "All previous"
+msgstr ""
+
+#: templates/admin/fields/checkbox-with-image-field.php:261
+msgid "Allowed number of options to select"
+msgstr ""
+
+#: templates/admin/settings/paypal.php:28
+msgid "and turn off the setting"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:194
+#: templates/admin/general-settings/email-template.php:206
+msgid "Annual_report.pdf"
+msgstr ""
+
+#: templates/admin/general-settings/email.php:17
+#: templates/admin/general-settings/invoice.php:16
+#: templates/admin/general-settings/stripe.php:17
+#: templates/admin/general-settings/paypal.php:17
+msgid "Apply for all calculators"
+msgstr ""
+
+#: templates/admin/condition.php:12
+msgid "As per current"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:193
+#: templates/admin/general-settings/email-template.php:205
+msgid "Attach file:"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:446
+msgid "Automate the calculation data sending to a wide range of popular apps."
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:109
+msgid "Back button text"
+msgstr ""
+
+#: templates/admin/general-settings/backup-settings.php:19
+msgid "Back up the latest 3 versions"
+msgstr ""
+
+#: templates/admin/general-settings/backup-settings.php:5
+msgid "Backup settings"
+msgstr ""
+
+#: templates/admin/fields/time-picker-field.php:60
+msgid "Basic(without range)"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:64
+msgid "Before Add To Cart Form"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:66
+msgid "Before Product Meta"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:63
+msgid "Before Single Product (At the Top of Product)"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:145
+msgid "Block a period"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:153
+msgid "Block days relative to current day"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:132
+msgid "Block every"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:33
+msgid "Border Color"
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:168
+#: templates/admin/fields/checkbox-with-image-field.php:170
+msgid "Box style"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:41
+msgid "Button Color"
+msgstr ""
+
+#: templates/admin/general-settings/email.php:38
+#: templates/admin/general-settings/invoice.php:78
+msgid "Button Text"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:130
+#: templates/admin/settings/thank-you-page.php:151
+#: templates/admin/settings/thank-you-page.php:172
+msgid "Button text"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:122
+msgid "Button to download receipt"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:143
+msgid "Button to share receipt"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:66
+msgid "Calculate cost per day"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:98
+msgid "Calculate unselectable days"
+msgstr ""
+
+#: templates/admin/email-templates/owner-email-template.php:503
+msgid "Calculation result"
+msgstr ""
+
+#: includes/classes/payments/CCBStripe.php:102
+#: includes/classes/payments/CCBPayPal.php:97
+msgid "Calculator"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:107
+msgid "Calculator Field"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:16
+msgid "Calculator for WooCommerce Products"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:58
+msgid "Calculator Position"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:50
+msgid "Calendar Option"
+msgstr ""
+
+#: templates/admin/fields/repeater-field.php:5
+#: templates/admin/fields/multi-range-field.php:5
+#: templates/admin/fields/date-picker-field.php:5
+#: templates/admin/fields/radio-with-image-field.php:5
+#: templates/admin/fields/drop-down-with-image-field.php:5
+#: templates/admin/fields/time-picker-field.php:5
+#: templates/admin/fields/file-upload-field.php:5
+#: templates/admin/fields/checkbox-with-image-field.php:5
+msgid "Cancel"
+msgstr ""
+
+#: templates/admin/general-settings/captcha.php:5
+msgid "Captcha"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:130
+msgid "Captcha by Google to prevent bots"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:138
+msgid "Captcha key has been added."
+msgstr ""
+
+#: templates/admin/settings/send-form.php:139
+msgid "Captcha setting"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:75
+msgid "Center"
+msgstr ""
+
+#: templates/frontend/fields/cost-file-upload.php:49
+#: templates/admin/general-settings/email-template.php:52
+#: templates/admin/general-settings/invoice.php:58
+msgid "Choose file"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:160
+msgid "Choose options"
+msgstr ""
+
+#: templates/admin/settings/paypal.php:115
+msgid ""
+"Choose the formula element(s) to show as the total cost in Orders and PayPal."
+" If you choose several elements, the sum of these elements will be shown as "
+"‘Total'."
+msgstr ""
+
+#: templates/admin/settings/stripe.php:85
+msgid ""
+"Choose the formula element(s) to show as the total cost in Orders and Stripe."
+" If you choose several elements, the sum of these elements will be shown as "
+"'Total Name' field will be renamed to 'Total'."
+msgstr ""
+
+#: templates/admin/general-settings/email.php:88
+msgid "Close Quote Button Text"
+msgstr ""
+
+#: templates/admin/general-settings/invoice.php:26
+msgid "Company Name"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:20
+msgid "Confirmation page"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:435
+msgid "Connect 5000+ apps"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:94
+msgid "Connect WooCommerce Meta to Calculator Fields:"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:100
+msgid ""
+"Connect your selling service or product to online payment systems using the "
+"connection shortcode. Note that the 'Total Name' field will be renamed to "
+"'Total'."
+msgstr ""
+
+#: templates/admin/settings/send-form.php:83
+msgid "Contact Form Content"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:19
+msgid "Content Background"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:441
+msgid "Cost Calculator"
+msgstr ""
+
+#: cost-calculator-builder-pro.php:142
+msgid ""
+"Cost Calculator Builder plugin update required. We added new features, and "
+"need to update your plugin to the latest version!"
+msgstr ""
+
+#. Name of the plugin
+msgid "Cost Calculator Builder PRO"
+msgstr ""
+
+#: templates/frontend/partials/calc-form-payments.php:32
+#: templates/frontend/partials/calc-payments.php:47
+msgid "Credit Card"
+msgstr ""
+
+#: templates/frontend/partials/calc-form-payments.php:19
+#: templates/frontend/partials/calc-payments.php:33
+msgid "Credit Card details"
+msgstr ""
+
+#: templates/admin/settings/stripe.php:49
+#: templates/admin/settings/paypal.php:61
+#: templates/admin/general-settings/stripe.php:37
+#: templates/admin/general-settings/paypal.php:48
+msgid "Currency"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:166
+#: templates/admin/fields/date-picker-field.php:89
+#: templates/admin/fields/radio-with-image-field.php:207
+#: templates/admin/fields/drop-down-with-image-field.php:142
+#: templates/admin/fields/file-upload-field.php:134
+#: templates/admin/fields/checkbox-with-image-field.php:209
+msgid "Currency Sign"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:161
+msgid "Current day"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:181
+msgid "Custom button Link"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:34
+msgid "Custom page"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:63
+msgid "Custom page Link"
+msgstr ""
+
+#: includes/classes/payments/CCBPayPal.php:90
+msgid "Customer"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:93
+msgid "Customer email description"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:85
+msgid "Customer email title"
+msgstr ""
+
+#: templates/admin/email-templates/owner-email-template.php:694
+msgid "Customer Info"
+msgstr ""
+
+#: templates/admin/general-settings/invoice.php:6
+msgid "Data will be shown on the PDF and printed copies of the invoice"
+msgstr ""
+
+#: templates/admin/general-settings/invoice.php:32
+msgid "Date Format"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:3
+msgid "Date picker"
+msgstr ""
+
+#: templates/frontend/fields/cost-repeater.php:28
+msgid "days"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:184
+msgid "days from current day"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:38
+msgid "Default"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:92
+msgid "Default End Value"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:79
+msgid "Default Start Value"
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:104
+#: templates/admin/fields/drop-down-with-image-field.php:100
+msgid "Default Value"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:36
+#: templates/admin/fields/date-picker-field.php:42
+#: templates/admin/fields/radio-with-image-field.php:40
+#: templates/admin/fields/drop-down-with-image-field.php:37
+#: templates/admin/fields/time-picker-field.php:47
+#: templates/admin/fields/file-upload-field.php:35
+#: templates/admin/fields/checkbox-with-image-field.php:48
+msgid "Description"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:57
+#: templates/admin/general-settings/email-template.php:197
+#: templates/admin/general-settings/email-template.php:209
+#: templates/admin/general-settings/invoice.php:63
+#: templates/admin/email-templates/customer-email-template.php:729
+#: templates/admin/email-templates/owner-email-template.php:676
+msgid "Download"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:15
+#: templates/admin/fields/date-picker-field.php:15
+#: templates/admin/fields/radio-with-image-field.php:15
+#: templates/admin/fields/drop-down-with-image-field.php:15
+#: templates/admin/fields/time-picker-field.php:15
+#: templates/admin/fields/file-upload-field.php:14
+#: templates/admin/fields/checkbox-with-image-field.php:15
+msgid "Element"
+msgstr ""
+
+#: templates/frontend/partials/calc-form.php:72
+#: templates/frontend/partials/calc-payments.php:96
+#: templates/admin/settings/webhooks.php:161
+#: templates/admin/settings/webhooks.php:269
+#: templates/admin/settings/paypal.php:55
+#: templates/admin/general-settings/email.php:5
+#: templates/admin/general-settings/paypal.php:42
+#: templates/admin/email-templates/owner-email-template.php:701
+msgid "Email"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:377
+msgid "Email body"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:70
+msgid "Email logo position"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:81
+#: templates/admin/settings/webhooks.php:324
+msgid "Email quote"
+msgstr ""
+
+#: templates/admin/general-settings/email.php:59
+msgid "Email Quote Button"
+msgstr ""
+
+#: templates/admin/general-settings/email.php:82
+msgid "Email Quote Button Text"
+msgstr ""
+
+#: templates/admin/general-settings/email.php:102
+msgid "Email Quote Error Text"
+msgstr ""
+
+#: templates/admin/general-settings/email.php:96
+msgid "Email Quote Success Text"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:88
+msgid "Email quote."
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:7
+msgid "Email Template"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:37
+#: templates/admin/settings/webhooks.php:62
+#: templates/admin/settings/webhooks.php:87
+msgid "enable"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:15
+msgid "Enable Order Form"
+msgstr ""
+
+#: templates/admin/fields/file-upload-field.php:61
+msgid "Enter attached value"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:84
+msgid "Enter body"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:110
+#: templates/admin/settings/thank-you-page.php:131
+#: templates/admin/settings/thank-you-page.php:152
+#: templates/admin/settings/thank-you-page.php:173
+#: templates/admin/settings/send-form.php:47
+#: templates/admin/settings/send-form.php:70
+#: templates/admin/settings/send-form.php:76
+#: templates/admin/general-settings/email.php:39
+#: templates/admin/general-settings/email.php:45
+#: templates/admin/general-settings/email.php:77
+#: templates/admin/general-settings/email.php:83
+#: templates/admin/general-settings/email.php:89
+#: templates/admin/general-settings/invoice.php:90
+msgid "Enter button text"
+msgstr ""
+
+#: templates/admin/general-settings/invoice.php:27
+msgid "Enter company name"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:84
+msgid "Enter content"
+msgstr ""
+
+#: templates/admin/general-settings/stripe.php:38
+msgid "Enter currency"
+msgstr ""
+
+#: templates/admin/settings/stripe.php:50
+msgid "Enter currency for payment"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:86
+msgid "Enter customer email title"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:94
+msgid "Enter email description"
+msgstr ""
+
+#: templates/admin/general-settings/email.php:103
+msgid "Enter error text"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:37
+#: templates/admin/fields/date-picker-field.php:43
+#: templates/admin/fields/radio-with-image-field.php:41
+#: templates/admin/fields/drop-down-with-image-field.php:38
+#: templates/admin/fields/time-picker-field.php:48
+#: templates/admin/fields/file-upload-field.php:36
+#: templates/admin/fields/checkbox-with-image-field.php:49
+msgid "Enter field description"
+msgstr ""
+
+#: templates/admin/fields/repeater-field.php:16
+#: templates/admin/fields/repeater-field.php:24
+#: templates/admin/fields/repeater-field.php:30
+#: templates/admin/fields/multi-range-field.php:29
+#: templates/admin/fields/date-picker-field.php:29
+#: templates/admin/fields/radio-with-image-field.php:33
+#: templates/admin/fields/drop-down-with-image-field.php:30
+#: templates/admin/fields/time-picker-field.php:30
+#: templates/admin/fields/file-upload-field.php:28
+#: templates/admin/fields/checkbox-with-image-field.php:41
+msgid "Enter field name"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:35
+msgid "Enter field placeholder"
+msgstr ""
+
+#: templates/frontend/fields/cost-file-upload.php:56
+msgid "Enter file url"
+msgstr ""
+
+#: templates/admin/fields/time-picker-field.php:98
+msgid "Enter interval"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:66
+#: templates/admin/settings/thank-you-page.php:182
+msgid "Enter link"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:57
+msgid "Enter max range"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:46
+msgid "Enter min range"
+msgstr ""
+
+#: templates/admin/settings/paypal.php:56
+#: templates/admin/general-settings/paypal.php:43
+msgid "Enter PayPal email"
+msgstr ""
+
+#: templates/admin/fields/file-upload-field.php:119
+#: templates/admin/fields/file-upload-field.php:121
+msgid "Enter Price"
+msgstr ""
+
+#: templates/admin/general-settings/captcha.php:32
+msgid "Enter secret key"
+msgstr ""
+
+#: templates/admin/general-settings/captcha.php:26
+msgid "Enter site key"
+msgstr ""
+
+#: templates/admin/fields/file-upload-field.php:45
+msgid "Enter size"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:70
+msgid "Enter step"
+msgstr ""
+
+#: templates/admin/settings/stripe.php:38
+#: templates/admin/general-settings/stripe.php:26
+msgid "Enter stripe public key"
+msgstr ""
+
+#: templates/admin/settings/stripe.php:44
+#: templates/admin/general-settings/stripe.php:32
+msgid "Enter stripe secret key"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:61
+#: templates/admin/general-settings/email.php:33
+msgid "Enter subject"
+msgstr ""
+
+#: templates/admin/general-settings/email.php:97
+msgid "Enter success text"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:124
+#: templates/admin/settings/webhooks.php:232
+#: templates/admin/settings/webhooks.php:340
+msgid ""
+"Enter the received link from the automation service and send the demo data "
+"to check the connection."
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:76
+#: templates/admin/settings/thank-you-page.php:92
+msgid "Enter title"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:76
+msgid "Enter Value"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:81
+#: templates/admin/fields/multi-range-field.php:94
+msgid "Enter value"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:54
+#: templates/admin/general-settings/email.php:26
+msgid "Enter your email"
+msgstr ""
+
+#: includes/classes/payments/CCBStripe.php:205
+msgid "Error occurred. Please try again"
+msgstr ""
+
+#: templates/admin/fields/file-upload-field.php:81
+msgid "file formats selected"
+msgstr ""
+
+#: templates/admin/fields/file-upload-field.php:3
+msgid "File upload"
+msgstr ""
+
+#: templates/frontend/fields/cost-file-upload.php:64
+msgid "files uploaded"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:422
+msgid "Find out more."
+msgstr ""
+
+#: templates/admin/fields/file-upload-field.php:98
+msgid "For enabling all file types, you need to edit wp-config.php file."
+msgstr ""
+
+#: templates/admin/general-settings/email.php:114
+msgid "From Email"
+msgstr ""
+
+#: templates/admin/general-settings/email.php:120
+msgid "From Name"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:23
+#: templates/admin/settings/stripe.php:26
+#: templates/admin/settings/paypal.php:27
+msgid "Global settings applied"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:26
+#: templates/admin/settings/stripe.php:29
+#: templates/admin/settings/paypal.php:30
+msgid "Go to Settings"
+msgstr ""
+
+#: templates/admin/fields/time-picker-field.php:36
+msgid "hh"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:175
+#: templates/admin/fields/date-picker-field.php:208
+#: templates/admin/fields/radio-with-image-field.php:234
+#: templates/admin/fields/drop-down-with-image-field.php:169
+#: templates/admin/fields/time-picker-field.php:131
+#: templates/admin/fields/file-upload-field.php:169
+#: templates/admin/fields/checkbox-with-image-field.php:236
+msgid "Hidden by Default"
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:173
+#: templates/admin/fields/checkbox-with-image-field.php:175
+msgid "Horizontal"
+msgstr ""
+
+#: templates/admin/fields/time-picker-field.php:35
+msgid "Hours"
+msgstr ""
+
+#: templates/admin/general-settings/captcha.php:6
+msgid "How to add Captcha keys?"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:171
+msgid "HR Services"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://stylemixthemes.com/cost-calculator-plugin/"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:421
+msgid ""
+"If you add or remove fields in your calculator, you must resubmit the data "
+"and update the settings in the automation service."
+msgstr ""
+
+#: templates/admin/settings/stripe.php:27
+#: templates/admin/settings/paypal.php:28
+msgid "If you want to set up a specific calculator, please go to"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:24
+msgid ""
+"If you want to set up a specific calculator, please go to Settings → Email "
+"and turn off the setting “Apply for all calculators”"
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:57
+#: templates/admin/fields/drop-down-with-image-field.php:54
+#: templates/admin/fields/checkbox-with-image-field.php:65
+msgid "Image"
+msgstr ""
+
+#: templates/admin/fields/checkbox-with-image-field.php:3
+msgid "Image checkbox"
+msgstr ""
+
+#: templates/admin/fields/drop-down-with-image-field.php:3
+msgid "Image dropdown "
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:3
+msgid "Image Radio"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:420
+msgid "Important!"
+msgstr ""
+
+#: cost-calculator-builder-pro.php:83
+msgid "Install"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:121
+#: templates/admin/settings/woo-products.php:173
+msgid "Install WooCommerce"
+msgstr ""
+
+#: templates/admin/fields/time-picker-field.php:99
+msgid "Invalid format"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:147
+msgid "It works only if you add Recaptcha key to Global settings"
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:49
+#: templates/admin/fields/drop-down-with-image-field.php:47
+#: templates/admin/fields/checkbox-with-image-field.php:58
+msgid "Label"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:101
+#: templates/admin/settings/stripe.php:86
+#: templates/admin/settings/paypal.php:116
+msgid "Learn More"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:39
+#: templates/admin/settings/webhooks.php:64
+#: templates/admin/settings/webhooks.php:89
+#: templates/admin/general-settings/captcha.php:6
+msgid "Learn more"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:74
+msgid "Left"
+msgstr ""
+
+#: templates/admin/general-settings/paypal.php:65
+msgid "Live"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:50
+#: templates/admin/general-settings/invoice.php:56
+msgid "Logo"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:27
+msgid "Main Text Color"
+msgstr ""
+
+#: templates/frontend/partials/calc-form.php:6
+msgid "Make order"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:114
+msgid "Make some days unselectable"
+msgstr ""
+
+#: templates/admin/email-templates/owner-email-template.php:507
+msgid "Manage Order"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:138
+msgid "Market Analysis"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:149
+msgid "Marketing Strategy"
+msgstr ""
+
+#: templates/frontend/fields/cost-file-upload.php:33
+msgid "max"
+msgstr ""
+
+#: templates/admin/fields/file-upload-field.php:59
+msgid "Maximum attached files"
+msgstr ""
+
+#: templates/admin/fields/file-upload-field.php:43
+msgid "Maximum file size MB"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:55
+msgid "Maximum Range Value"
+msgstr ""
+
+#: templates/frontend/partials/calc-form.php:93
+#: templates/frontend/partials/calc-payments.php:115
+#: templates/admin/settings/webhooks.php:177
+#: templates/admin/settings/webhooks.php:285
+#: templates/admin/email-templates/owner-email-template.php:710
+msgid "Message"
+msgstr ""
+
+#: templates/admin/fields/time-picker-field.php:96
+msgid "Minimum interval (For ex. 1h, 1h 30m, 30m)"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:44
+msgid "Minimum Range Value"
+msgstr ""
+
+#: templates/admin/fields/time-picker-field.php:41
+msgid "Minutes"
+msgstr ""
+
+#: templates/admin/fields/time-picker-field.php:42
+msgid "mm"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:3
+msgid "Multi range"
+msgstr ""
+
+#: templates/frontend/partials/calc-form.php:61
+#: templates/frontend/partials/calc-payments.php:86
+#: templates/admin/settings/webhooks.php:153
+#: templates/admin/settings/webhooks.php:261
+#: templates/admin/general-settings/email-template.php:133
+#: templates/admin/email-templates/customer-email-template.php:579
+#: templates/admin/email-templates/owner-email-template.php:525
+#: templates/admin/email-templates/owner-email-template.php:710
+#: templates/admin/fields/multi-range-field.php:28
+#: templates/admin/fields/date-picker-field.php:28
+#: templates/admin/fields/radio-with-image-field.php:32
+#: templates/admin/fields/drop-down-with-image-field.php:29
+#: templates/admin/fields/time-picker-field.php:29
+#: templates/admin/fields/file-upload-field.php:27
+#: templates/admin/fields/checkbox-with-image-field.php:40
+msgid "Name"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:175
+msgid "Next"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:55
+msgid "No range"
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:139
+#: templates/admin/fields/drop-down-with-image-field.php:128
+#: templates/admin/fields/checkbox-with-image-field.php:149
+msgid "Not Saved!"
+msgstr ""
+
+#: templates/admin/general-settings/paypal.php:64
+#: templates/admin/fields/radio-with-image-field.php:108
+#: templates/admin/fields/drop-down-with-image-field.php:104
+msgid "Not selected"
+msgstr ""
+
+#: templates/admin/condition.php:13
+msgid "Nothing will be changed"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:121
+msgid "of specific days or date ranges in the calendar"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:46
+#: templates/admin/settings/send-form.php:69
+#: templates/admin/general-settings/email.php:44
+msgid "Open Form Button Text"
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:75
+#: templates/admin/fields/drop-down-with-image-field.php:72
+#: templates/admin/fields/checkbox-with-image-field.php:83
+msgid "Option label"
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:81
+#: templates/admin/fields/drop-down-with-image-field.php:78
+#: templates/admin/fields/checkbox-with-image-field.php:89
+msgid "Option Value"
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:140
+#: templates/admin/fields/drop-down-with-image-field.php:129
+#: templates/admin/fields/checkbox-with-image-field.php:150
+msgid "Options tab contains errors, check the fields!"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:5
+msgid "Order Form"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:53
+#: templates/admin/general-settings/email.php:25
+msgid "Order Notification Email"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:56
+#: templates/admin/settings/webhooks.php:216
+msgid "Payment button"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:163
+#: templates/admin/settings/send-form.php:173
+#: templates/admin/settings/send-form.php:180
+msgid "Payment Gateways"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:63
+msgid "Payment method."
+msgstr ""
+
+#: templates/frontend/partials/calc-form-payments.php:9
+#: templates/frontend/partials/calc-payments.php:22
+msgid "Payment methods"
+msgstr ""
+
+#: includes/classes/payments/CCBStripe.php:197
+msgid "Payment Received! Thank You for Payment"
+msgstr ""
+
+#: templates/frontend/partials/calc-form-payments.php:42
+#: templates/frontend/partials/calc-payments.php:57
+#: templates/admin/settings/paypal.php:9 templates/admin/settings/paypal.php:19
+#: templates/admin/general-settings/paypal.php:5
+msgid "PayPal"
+msgstr ""
+
+#: templates/admin/settings/paypal.php:39
+#: templates/admin/general-settings/paypal.php:26
+msgid "PayPal IPN Setup:"
+msgstr ""
+
+#: templates/frontend/pro-features.php:22
+#: templates/frontend/partials/calc-form.php:16
+#: templates/frontend/partials/woo-checkout.php:19
+#: templates/frontend/partials/calc-payments.php:138
+msgid "PDF Download"
+msgstr ""
+
+#: templates/admin/general-settings/invoice.php:5
+msgid "PDF Entries"
+msgstr ""
+
+#: templates/frontend/partials/calc-form.php:83
+#: templates/frontend/partials/calc-payments.php:106
+#: templates/admin/settings/webhooks.php:169
+#: templates/admin/settings/webhooks.php:277
+#: templates/admin/email-templates/owner-email-template.php:701
+msgid "Phone"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:34
+msgid "Placeholder"
+msgstr ""
+
+#: cost-calculator-builder-pro.php:81
+msgid ""
+"Please install Cost-Calculator-Builder from <a href=\"https://wordpress."
+"org/plugins/cost-calculator-builder/\">WordPress.org</a>"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:15
+msgid ""
+"Please note that if the action is not activated, the webhook setting won't "
+"be available."
+msgstr ""
+
+#: cost-calculator-builder-pro.php:141
+msgid "Please update Cost Calculator Builder plugin!"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:105
+msgid "Plugin branding in footer section"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:220
+msgid "Powered by:"
+msgstr ""
+
+#: templates/admin/general-settings/email.php:62
+#: templates/admin/general-settings/invoice.php:81
+msgid "Preview"
+msgstr ""
+
+#: templates/frontend/fields/cost-drop-down-with-image.php:33
+msgid "Price"
+msgstr ""
+
+#: templates/frontend/fields/cost-radio-with-image.php:8
+#: templates/frontend/fields/cost-checkbox-with-image.php:8
+msgid "Price:"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:38
+msgid "Product"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:24
+msgid "Product Category"
+msgstr ""
+
+#: templates/admin/settings/stripe.php:37
+#: templates/admin/general-settings/stripe.php:25
+msgid "Public Key"
+msgstr ""
+
+#: templates/frontend/partials/calc-form-payments.php:72
+#: templates/frontend/partials/calc-payments.php:134
+msgid "Purchase"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:68
+msgid "Range Step"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:455
+msgid "Read article"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:125
+#: templates/admin/settings/webhooks.php:233
+#: templates/admin/settings/webhooks.php:341
+msgid "Read guide"
+msgstr ""
+
+#: templates/admin/fields/file-upload-field.php:54
+#: templates/admin/fields/file-upload-field.php:99
+msgid "Read more"
+msgstr ""
+
+#: templates/admin/general-settings/captcha.php:14
+msgid "reCAPTCHA version"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:56
+msgid "Redirect to Cart Page"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:60
+msgid "Redirect to Checkout Page"
+msgstr ""
+
+#: templates/admin/fields/repeater-field.php:15
+msgid "Repeater name"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:31
+msgid "Replace Product"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:199
+#: templates/admin/fields/radio-with-image-field.php:216
+#: templates/admin/fields/drop-down-with-image-field.php:151
+#: templates/admin/fields/time-picker-field.php:113
+#: templates/admin/fields/file-upload-field.php:160
+#: templates/admin/fields/checkbox-with-image-field.php:218
+msgid "Required"
+msgstr ""
+
+#: templates/admin/general-settings/backup-settings.php:9
+msgid ""
+"Restore them by clicking the “Clock” button next to the “Preview” button on "
+"the right top."
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:76
+msgid "Right"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:184
+#: templates/admin/fields/radio-with-image-field.php:225
+#: templates/admin/fields/drop-down-with-image-field.php:160
+#: templates/admin/fields/checkbox-with-image-field.php:227
+msgid "Round Value"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:165
+msgid "Sales Audit"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:31
+msgid "Same page as calculator"
+msgstr ""
+
+#: templates/admin/general-settings/paypal.php:66
+msgid "Sandbox"
+msgstr ""
+
+#: templates/admin/general-settings/email.php:128
+#: templates/admin/general-settings/email-template.php:111
+#: templates/admin/general-settings/backup-settings.php:27
+#: templates/admin/general-settings/invoice.php:110
+#: templates/admin/general-settings/captcha.php:38
+#: templates/admin/general-settings/stripe.php:45
+#: templates/admin/general-settings/paypal.php:75
+#: templates/admin/fields/repeater-field.php:6
+#: templates/admin/fields/multi-range-field.php:6
+#: templates/admin/fields/date-picker-field.php:6
+#: templates/admin/fields/radio-with-image-field.php:6
+#: templates/admin/fields/drop-down-with-image-field.php:6
+#: templates/admin/fields/time-picker-field.php:6
+#: templates/admin/fields/file-upload-field.php:6
+#: templates/admin/fields/checkbox-with-image-field.php:6
+msgid "Save"
+msgstr ""
+
+#: templates/admin/settings/stripe.php:43
+#: templates/admin/general-settings/captcha.php:31
+#: templates/admin/general-settings/stripe.php:31
+msgid "Secret Key"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:192
+#: templates/admin/settings/webhooks.php:300
+#: templates/admin/settings/webhooks.php:400
+msgid "Secret key or Token (optional)"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:130
+msgid "Select Action"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:141
+msgid "Select Calculator Field"
+msgstr ""
+
+#: templates/admin/general-settings/paypal.php:52
+msgid "Select currency sign"
+msgstr ""
+
+#: templates/admin/settings/paypal.php:65
+msgid "Select Currency Symbol"
+msgstr ""
+
+#: templates/admin/fields/file-upload-field.php:84
+msgid "Select File formats"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:34
+msgid "Select Form"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:62
+msgid "Select Hook For Showing Calculator"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:45
+#: templates/admin/settings/thank-you-page.php:51
+msgid "Select page"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:38
+msgid "Select Product Category"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:109
+#: templates/admin/settings/woo-checkout.php:89
+#: templates/admin/settings/stripe.php:74
+#: templates/admin/settings/paypal.php:104
+msgid "Select totals"
+msgstr ""
+
+#: templates/frontend/fields/cost-drop-down-with-image.php:17
+#: templates/frontend/fields/cost-drop-down-with-image.php:26
+msgid "Select value"
+msgstr "[Russian Translation]"
+
+#: templates/admin/settings/woo-products.php:119
+msgid "Select WooCommerce Field"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:42
+msgid "Select WooCommerce Product"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:121
+#: templates/admin/settings/webhooks.php:229
+#: templates/admin/settings/webhooks.php:337
+msgid "Send demo data"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:31
+#: templates/admin/settings/webhooks.php:108
+msgid "Send form"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:38
+msgid "Send Form."
+msgstr ""
+
+#: templates/frontend/pro-features.php:12
+#: templates/frontend/pro-features.php:33
+#: templates/frontend/pro-features.php:74
+#: templates/frontend/partials/calc-form.php:27
+#: templates/frontend/partials/woo-checkout.php:13
+#: templates/frontend/partials/woo-checkout.php:30
+#: templates/frontend/partials/calc-payments.php:150
+msgid "Send Quote"
+msgstr ""
+
+#: templates/admin/general-settings/email.php:113
+msgid "Sender Email"
+msgstr ""
+
+#: templates/admin/general-settings/email.php:119
+msgid "Sender Name"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:33
+msgid "Separate page"
+msgstr ""
+
+#: templates/admin/fields/file-upload-field.php:52
+msgid "Server file size limit: "
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:210
+#: templates/admin/fields/date-picker-field.php:225
+#: templates/admin/fields/radio-with-image-field.php:260
+#: templates/admin/fields/drop-down-with-image-field.php:195
+#: templates/admin/fields/time-picker-field.php:139
+#: templates/admin/fields/file-upload-field.php:186
+#: templates/admin/fields/checkbox-with-image-field.php:270
+msgid "Set Additional Classes"
+msgstr ""
+
+#: templates/admin/fields/time-picker-field.php:88
+msgid "Set minimum interval"
+msgstr ""
+
+#: templates/admin/fields/checkbox-with-image-field.php:262
+msgid "Set the max number of options allowed to select"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:19
+#: templates/admin/fields/date-picker-field.php:18
+#: templates/admin/fields/radio-with-image-field.php:22
+#: templates/admin/fields/drop-down-with-image-field.php:19
+#: templates/admin/fields/time-picker-field.php:18
+#: templates/admin/fields/file-upload-field.php:18
+#: templates/admin/fields/checkbox-with-image-field.php:22
+msgid "Settings"
+msgstr ""
+
+#: templates/admin/settings/paypal.php:28
+msgid "Settings → PayPal"
+msgstr ""
+
+#: templates/admin/settings/stripe.php:27
+msgid "Settings → Stripe"
+msgstr ""
+
+#: templates/admin/general-settings/invoice.php:101
+msgid "Show button only after making payment"
+msgstr ""
+
+#: templates/admin/fields/multi-range-field.php:193
+#: templates/admin/fields/date-picker-field.php:217
+#: templates/admin/fields/radio-with-image-field.php:243
+#: templates/admin/fields/drop-down-with-image-field.php:178
+#: templates/admin/fields/time-picker-field.php:122
+#: templates/admin/fields/file-upload-field.php:178
+#: templates/admin/fields/checkbox-with-image-field.php:245
+msgid "Show in Grand Total"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:27
+msgid "Show this page on"
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:120
+#: templates/admin/fields/drop-down-with-image-field.php:116
+msgid "Show Value"
+msgstr ""
+
+#: templates/admin/general-settings/captcha.php:25
+msgid "Site Key"
+msgstr ""
+
+#: includes/classes/CCBContactForm.php:10
+#: includes/classes/CCBContactForm.php:53
+#: includes/classes/payments/CCBWooCheckout.php:18
+msgid "Something went wrong"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:64
+msgid "Stay on Page"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:385
+msgid "String attachment"
+msgstr ""
+
+#: templates/admin/settings/stripe.php:8 templates/admin/settings/stripe.php:18
+#: templates/admin/general-settings/stripe.php:5
+msgid "Stripe"
+msgstr ""
+
+#. Author of the plugin
+msgid "Stylemix Themes"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:369
+#: templates/admin/settings/send-form.php:60
+#: templates/admin/general-settings/email.php:32
+msgid "Subject"
+msgstr ""
+
+#: templates/frontend/pro-features.php:66
+msgid "Submit"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:75
+#: templates/admin/general-settings/email.php:76
+msgid "Submit Button Text"
+msgstr ""
+
+#: templates/frontend/partials/calc-form.php:111
+msgid "Submit order"
+msgstr ""
+
+#: includes/classes/payments/CCBWooCheckout.php:47
+msgid "success"
+msgstr ""
+
+#: templates/admin/fields/file-upload-field.php:143
+msgid "Sum prices for each file"
+msgstr ""
+
+#: templates/admin/fields/file-upload-field.php:72
+msgid "Supported file formats"
+msgstr ""
+
+#: templates/frontend/fields/cost-file-upload.php:29
+msgid "Supported file formats:"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:65
+#: templates/admin/general-settings/invoice.php:71
+msgid "Supported file formats: JPG, PNG — max 10mb"
+msgstr ""
+
+#: templates/admin/general-settings/email-template.php:13
+msgid "Template Background"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:75
+msgid "Texts"
+msgstr ""
+
+#: includes/classes/CCBContactForm.php:225
+msgid "Thank you for your message. It has been sent."
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:167
+msgid "The day when visitor uses calculator"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:139
+#: templates/admin/settings/webhooks.php:247
+#: templates/admin/settings/webhooks.php:355
+msgid ""
+"The Demo Data is used for initial configuration of Webhooks. The demo data "
+"will be sent with a value of 100:"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:120
+msgid "The setting allows the disabling "
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:180
+#: templates/admin/settings/webhooks.php:288
+msgid "This is a sample message"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:36
+#: templates/admin/settings/webhooks.php:61
+#: templates/admin/settings/webhooks.php:86
+msgid "This webhook will be available after you"
+msgstr ""
+
+#: templates/admin/fields/time-picker-field.php:56
+msgid "Time Option"
+msgstr ""
+
+#: templates/admin/fields/time-picker-field.php:3
+msgid "Time picker"
+msgstr ""
+
+#: templates/frontend/fields/cost-time-picker.php:74
+msgid "to"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:117
+#: templates/admin/settings/woo-products.php:169
+msgid ""
+"To use WooProduct and WooCheckout, please install and activate WooCommerce "
+"Plugin"
+msgstr ""
+
+#: templates/admin/settings/thank-you-page.php:32
+msgid "Top of calculator as popup"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:145
+#: templates/admin/settings/webhooks.php:253
+#: templates/admin/general-settings/email-template.php:134
+#: templates/admin/general-settings/email-template.php:181
+#: templates/admin/email-templates/customer-email-template.php:580
+#: templates/admin/email-templates/owner-email-template.php:526
+msgid "Total"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:92
+#: templates/admin/settings/woo-checkout.php:72
+#: templates/admin/settings/stripe.php:57
+#: templates/admin/settings/paypal.php:87
+msgid "Total Field Element"
+msgstr ""
+
+#: includes/classes/CCBPayments.php:164
+msgid "Total must be more then 0"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:106
+#: templates/admin/settings/woo-checkout.php:86
+#: templates/admin/settings/stripe.php:71
+#: templates/admin/settings/paypal.php:101
+msgid "totals selected"
+msgstr ""
+
+#: templates/admin/general-settings/backup-settings.php:9
+msgid ""
+"Turn this feature on if you want to back up the latest 3 versions of the "
+"calculator once you save them."
+msgstr ""
+
+#: cost-calculator-builder-pro.php:144
+msgid "Update Plugin"
+msgstr ""
+
+#: templates/frontend/fields/cost-file-upload.php:58
+msgid "Upload"
+msgstr ""
+
+#: templates/frontend/fields/cost-file-upload.php:50
+#: templates/admin/general-settings/email-template.php:53
+#: templates/admin/general-settings/invoice.php:59
+msgid "Upload from URL"
+msgstr ""
+
+#: templates/admin/settings/paypal.php:48
+#: templates/admin/general-settings/paypal.php:35
+msgid "Use the URL for IPN Listener Settings"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:361
+msgid "User email"
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:51
+#: templates/admin/fields/drop-down-with-image-field.php:48
+#: templates/admin/fields/checkbox-with-image-field.php:59
+msgid "Value"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:74
+msgid "Value (cost) of each day"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:181
+msgid "Value must be integer"
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:172
+#: templates/admin/fields/checkbox-with-image-field.php:174
+msgid "Vertical"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:116
+#: templates/admin/settings/webhooks.php:224
+#: templates/admin/settings/webhooks.php:332
+msgid "Webhook link"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:13
+msgid "Webhooks"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:131
+#: templates/admin/settings/webhooks.php:239
+#: templates/admin/settings/webhooks.php:347
+msgid "What is demo data"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:137
+#: templates/admin/settings/webhooks.php:245
+#: templates/admin/settings/webhooks.php:353
+msgid "What is demo data?"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:55
+#: templates/admin/settings/webhooks.php:215
+msgid "When user clicks"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:80
+#: templates/admin/settings/webhooks.php:323
+msgid "When user sends"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:30
+#: templates/admin/settings/webhooks.php:107
+msgid "When user submits"
+msgstr ""
+
+#: templates/admin/settings/send-form.php:86
+msgid "will be changed into total"
+msgstr ""
+
+#: templates/admin/settings/webhooks.php:438
+msgid "with"
+msgstr ""
+
+#: templates/admin/fields/date-picker-field.php:54
+msgid "With range"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:9
+msgid "Woo Checkout"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:6
+msgid "Woo Products"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:82
+msgid "WooCommerce Add To Cart Form"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:19
+msgid "WooCommerce Checkout"
+msgstr ""
+
+#: templates/frontend/partials/calc-form-payments.php:52
+#: templates/frontend/partials/calc-payments.php:67
+msgid "Woocommerce Checkout"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:101
+msgid "WooCommerce Meta"
+msgstr ""
+
+#: templates/admin/settings/woo-checkout.php:116
+#: templates/admin/settings/woo-products.php:168
+msgid "WooCommerce not installed"
+msgstr ""
+
+#: templates/admin/settings/woo-products.php:104
+msgid ""
+"WooCommerce Product Meta means the amount and the price of a product on "
+"WooCommerce."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WP Cost Calculator helps you to build any type of estimation forms on a few "
+"easy steps. The plugin offers its own calculation builder."
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:131
+#: templates/admin/fields/checkbox-with-image-field.php:112
+#, php-format
+msgid ""
+"You can find all the necessary icons in SVG format on %1$s or other services."
+" %2$s"
+msgstr ""
+
+#: templates/admin/fields/checkbox-with-image-field.php:30
+msgid ""
+"You have chosen a style that requires filing in additional fields. For this, "
+"go to the \"Element\" tab."
+msgstr ""
+
+#: templates/admin/fields/radio-with-image-field.php:147
+msgid ""
+"You have chosen a style that requires filling in additional fields, for this "
+"go to the \"Options\" section."
+msgstr ""
+
+#: templates/frontend/fields/cost-repeater.php:67
+msgid "You've reached maximum limit of adding new fields"
+msgstr ""
+
+#: includes/classes/payments/CCBStripe.php:156
+msgid "Your card was denied, please provide a new payment method!"
+msgstr ""
+
+#: templates/admin/settings/stripe.php:27
+#: templates/admin/settings/paypal.php:28
+msgid "“Apply for all calculators”"
+msgstr ""
